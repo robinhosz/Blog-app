@@ -1,4 +1,4 @@
-<p align="center">Uma aplicação web para aperfeiçoar a gestão dos hospitais e clínicas.</p>
+<h2 align="center">Uma aplicação Java web para Blogs!</h2>
 
 <p align="center">
  <a href="#-sobre">Sobre</a> •
