@@ -36,7 +36,7 @@ create database codeblog;
 ```
 - Depois disso vá até a classe **DummyData** e retire o comentário da anotação **@PostConstruct** para adicionar os dois usuários dessa classe, depois disso Rode o projeto. Para visualizar se deu certo a inserção dê um select!
 ```
-select * from tb_posts;
+select * from tb_post;
 ```
 - Agora com o banco de dados configurado, você vai poder visualizar as principais funcionalidades do blog. OBS: Lembre-se de comentar novamente a anotação **@PostConstruct** para não inserir novamente os mesmos usuários.
 
